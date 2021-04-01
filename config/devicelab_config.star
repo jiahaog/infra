@@ -457,6 +457,7 @@ def devicelab_prod_config(branch, version, ref):
         "integration_ui_keyboard_resize",
         "integration_ui_screenshot",
         "integration_ui_textfield",
+        "integration_test_test",
         "microbenchmarks",
         "new_gallery__transition_perf",
         "picture_cache_perf__timeline_summary",
@@ -524,6 +525,7 @@ def devicelab_prod_config(branch, version, ref):
         "integration_ui_ios_keyboard_resize",
         "integration_ui_ios_screenshot",
         "integration_ui_ios_textfield",
+        "integration_test_test_ios"
         "ios_app_with_extensions_test",
         "ios_content_validation_test",
         "ios_defines_test",
